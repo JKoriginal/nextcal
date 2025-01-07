@@ -27,7 +27,7 @@ export default function Home() {
   const [equation, setEquation] = useState("");
 
   return (
-    <main className="h-screen bg-gradient-to-br from-[#591E5E] to-[#C3C07C] flex items-center justify-center">
+    <main className="h-screen bg-gradient-to-br from-[#90C290] to-[ #591E5E] flex items-center justify-center">
       <div className="flex flex-row items-center space-x-5">
         <div className="bg-white border-2 border-gray-400 rounded-lg p-4 text-black ml-10">
           <p>Name: [D.L. Liyanagunawardhana]</p>
